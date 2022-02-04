@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'UltraSonic Senor Eyes',
+    title: 'UltraSonic Sensor Eyes',
     description: "This group project consisted of 4 members, and we worked on building an device that would sense sound, and move it's eyes in the direction of the sound.",
       image: '/images/3.png',
       tags: ['Arduino', 'Assembly'],

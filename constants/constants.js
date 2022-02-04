@@ -41,7 +41,7 @@ export const TimeLineData = [
   { year: 2014, text: 'Worked for Control4', },
   { year: 2017, text: 'Graduated Murray High School', },
   { year: 2019, text: 'Worked for Microsoft Office Support', },
-  { year: 2020, text: 'Graduated from SLCC, Worked by Instructure', },
+  { year: 2020, text: 'Graduated from SLCC, Worked for Instructure', },
   { year: 2021, text: 'First Unity Game - Nightmare Before Christmas', },
   { year: 2022, text: 'Expected to Graduate in Fall 2022 from WSU with BS in Computer Science', },
 ];

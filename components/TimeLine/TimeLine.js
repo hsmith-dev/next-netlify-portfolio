@@ -51,7 +51,7 @@ const Timeline = () => {
       <SectionText>
       I'm a Senior at Weber State University, engineering software solutions for problems and challenges.<br/>
       Here you will find a few projects that I have worked on studying for my Bachelors of Science in Computer Science, and hints of my professional work I did along the way. <br/>
-      Fun fact; I coaching and play Tennis. <br/>
+      Fun fact; I coach and play Tennis. <br/>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -10,10 +10,10 @@ export const projects = [
   },
   {
     title: 'Tower Defense',
-    description:"Currently expanding this Unity project, joining a team of 7 to expand their base game.",
+    description:"Currently expanding this Unity project, joining a team of 4 to improve and expand their base game.",
     image: '/images/2.png',
     tags: ['C#', 'Unity', 'Firebase', '3D Modeling', 'Edit/Play Tests', 'Git'],
-    source: 'https://nervous-nobel-4f0636.netlify.app',
+    source: 'https://thunderbeast.studio',
     visit: '',
     id: 1,
   },
